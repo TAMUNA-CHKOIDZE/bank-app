@@ -1,2 +1,19 @@
-# bank-app
-A simple interactive banking app built with HTML, CSS, and JavaScript. Users can deposit and withdraw money while the current balance is updated dynamically. The app uses object-oriented programming with private class fields and methods for secure balance management.
+# Simple Bank App
+
+This is a basic bank account application built using **HTML**, **CSS**, and **JavaScript**. It allows users to deposit and withdraw money and displays the current balance dynamically.
+
+## Features
+
+- 💰 Deposit money
+- 💸 Withdraw money (with balance check)
+- 🧮 Real-time balance update
+- 🧼 Input field auto-clears after each action
+- 🎨 Simple and responsive UI
+
+
+## How to Use
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/simple-bank-app.git
+
